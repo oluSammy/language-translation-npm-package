@@ -1,0 +1,33 @@
+{
+    "name": "language-translation-api",
+    "version": "1.1.20",
+    "description": "Designed to effortlessly translate languages by leveraging the power of Google Translate. Utilizing Puppeteer, this package crawls the Google Translate web page, providing accurate and reliable translations.",
+    "main": "lib/es5/index.js",
+    "module": "lib/es6/index.js",
+    "sideEffects": false,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/oluSammy/language-translation"
+    },
+    "keywords": [
+        "translation",
+        "js",
+        "library",
+        "google-translate",
+        "google",
+        "Puppeteer"
+    ],
+    "files": [
+        "lib",
+        "CHANGELOG.md",
+        "LICENSE",
+        "package.json",
+        "README.md"
+    ],
+    "author": "Samuel Olumorin",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/oluSammy/language-translation"
+    },
+    "homepage": "https://github.com/oluSammy/language-translation"
+}

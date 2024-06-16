@@ -1,1 +1,3 @@
-console.log("A Million dollar package")
+import { translate } from './translation/index';
+
+export default translate;
